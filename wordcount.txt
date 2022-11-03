@@ -1,0 +1,19 @@
+Homework Assignment Expectations:
+Each student should create two files of his/her own: 
+One to be used to count words (count # occurrences of the same words)
+Second to identify common friends
+Create a github repo on github.com
+Upload your files to your repo
+Fetch files via git clone from within Jupyter Notebook  (or via other methods to load data into a spark RDD or Dataframe)
+Run the notebooks , generate results for your own data (files)
+Submit your notebook with results to the provided link
+Perform work using Google Colab
+Open google colab at colab.research.google.com
+Create new notebook and import attached tutorial for Google Colab
+Verify and as needed change "Runtime" to "Python 3"
+Perform the tutorial and download as ipynb file with the results
+Create a github repo with two similar but different files I created
+Repeat the tutorial with your two input file.  
+Save the second ipynb file with results
+Create a zipfile from the two downloaded files and upload to the provided link.
+
